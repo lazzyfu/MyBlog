@@ -1,5 +1,7 @@
 # Table of Contents
-分享一些技术心得，\^_\^
+> 如果图片加载不出来，您可以clone到本地，使用markdown编辑器查看
+
+分享一些技术心得，仅作参考。
 
 ## mysql
 - [大表删除](mysql/大表删除.md)
